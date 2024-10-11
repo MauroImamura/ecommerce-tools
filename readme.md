@@ -30,7 +30,7 @@ Este projeto trata de serviços de gerador de QRcode, gerador de senhas, validad
 
   - executar o script de inicialização:
     ```
-    npm start
+    npm run start
     ```
 
 ### Agradecimentos:
